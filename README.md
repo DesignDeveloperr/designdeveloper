@@ -37,7 +37,7 @@ What does this mean? About nothing))))
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/designdeveloperr)
 [![Discord](https://img.shields.io/badge/discord-%236b86c9.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gcd6Mwa)
 [![Telegram](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/design_developer)
-[![VK](https://img.shields.io/badge/vk-%230077B5.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/sixninethree)
+
 
 ## My working setup
 ![Core i9 10980XE](https://img.shields.io/badge/intel-%20%20core_i9_10980XE-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)
