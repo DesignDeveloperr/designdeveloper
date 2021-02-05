@@ -30,7 +30,7 @@ What does this mean? About nothing))))
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=designdeveloperr&&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=designdeveloperr&theme=tokyonight&hide_langs_below=1&layout=compact&langs_count=20&hide=python" />
+  <img align="center" src="https://github-readme-stats-sand-alpha.vercel.app/api/top-langs/?username=designdeveloperr&theme=tokyonight&hide_langs_below=1&layout=compact&langs_count=20" />
 </a>
 
 ## Social
