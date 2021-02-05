@@ -27,13 +27,13 @@ What does this mean? About nothing))))
 
 ## My stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=designdeveloperr&&show_icons=true&theme=dark&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=designdeveloperr&&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.designdeveloperr.vercel.app/api/top-langs/?username=designdeveloperr&theme=dark&hide_langs_below=1&layout=compact&langs_count=20" />
+  <img align="center" src="https://github-readme-stats.designdeveloperr.vercel.app/api/top-langs/?username=designdeveloperr&theme=tokyonight&hide_langs_below=1&layout=compact&langs_count=20" />
 </a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DesignDeveloperr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DesignDeveloperr&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/designdeveloperr)
