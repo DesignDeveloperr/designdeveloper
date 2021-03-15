@@ -46,7 +46,7 @@ What does this mean? About nothing))))
 ![Win10 Pro](https://img.shields.io/badge/windows-10%20-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
 
 ![Core i9](https://img.shields.io/badge/intel-core%20i9-9900K-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)
-![Ubuntu server](https://img.shields.io/badge/ubuntu%20server-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
+![Ubuntu server](https://img.shields.io/badge/intel-core%20i9%209900K-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)
 
 ## And some fun stuff with random meme
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up." width=500px>
