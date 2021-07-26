@@ -37,16 +37,3 @@ What does this mean? About nothing))))
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/designdeveloperr)
 [![Discord](https://img.shields.io/badge/discord-%236b86c9.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/484376508505260033)
 [![Telegram](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/design_developer)
-
-
-## My working setup
-![Core i9 10980XE](https://img.shields.io/badge/intel-%20%20core_i9_10980XE-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)
-![RTX 2080Ti](https://img.shields.io/badge/nvidia-rtx2080ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)
-![TITAN RTX](https://img.shields.io/badge/nvidia-TITAN_RTX-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)
-![Win10 Pro](https://img.shields.io/badge/windows-10%20-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
-
-![Core i9](https://img.shields.io/badge/intel-core%20i9%209900K-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)
-![Ubuntu server](https://img.shields.io/badge/ubuntu%20server-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
-
-## And some fun stuff with random meme
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up." width=500px>
