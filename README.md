@@ -1,5 +1,5 @@
 ![](/reheader.glitch.me.png)
-# I am a Python/Java developer
+# I am a Java/Web developer
 
 ### That's how many people are interested in my profile
 ![Visitor Count](https://profile-counter.glitch.me/designdeveloperr/count.svg)
