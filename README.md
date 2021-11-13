@@ -24,6 +24,8 @@ What does this mean? About nothing))))
 ![MYSQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
 ![Tailwindcss](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react%20-61DBFB.svg?&style=for-the-badge&logo=react&logoColor=white)
+![Solidity](https://img.shields.io/badge/solidity%20-383838.svg?&style=for-the-badge&logo=solidity&logoColor=white)
 
 ## My stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
