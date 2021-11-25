@@ -33,10 +33,10 @@ What does this mean? About nothing))))
 
 ## My stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-designdeveloperr.vercel.app/api?username=designdeveloperr&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats-designdeveloperr.vercel.app/api?username=designdeveloperr&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.designdeveloperr.vercel.app/api/top-langs/?username=designdeveloperr&theme=tokyonight&hide_langs_below=1&layout=compact&langs_count=20" />
+  <img align="center" src="https://github-readme-stats.designdeveloperr.vercel.app/api/top-langs/?username=designdeveloperr&theme=github_dark&hide_langs_below=1&layout=compact&langs_count=20" />
 </a>
 
 ## Social
