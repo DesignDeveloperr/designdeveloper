@@ -1,10 +1,5 @@
 ![](/reheader.glitch.me.png)
-# I am a Java/Web developer
-
-### That's how many people are interested in my profile
-![Visitor Count](https://profile-counter.glitch.me/designdeveloperr/count.svg)
-
-What does this mean? About nothing))))
+# I am a Blockchain/Mobile/Web developer
 
 ## My Techs & Tools
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -41,6 +36,5 @@ What does this mean? About nothing))))
 </a>
 
 ## Social
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/designdeveloperr)
 [![Discord](https://img.shields.io/badge/discord-%236b86c9.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/484376508505260033)
 [![Telegram](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nullpointerr)
