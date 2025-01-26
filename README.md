@@ -32,10 +32,10 @@
 
 ## My stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-sand-alpha.vercel.app/api?username=designdeveloperr&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats-sand-alpha.vercel.app/api?username=designdeveloperr&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&2" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-sand-alpha.vercel.app/api/top-langs/?username=designdeveloperr&theme=github_dark&hide_langs_below=1&layout=compact&langs_count=20" />
+  <img align="center" src="https://github-readme-stats-sand-alpha.vercel.app/api/top-langs/?username=designdeveloperr&theme=github_dark&hide_langs_below=1&layout=compact&langs_count=20&2" />
 </a>
 
 ## Social
